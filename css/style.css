@@ -1,0 +1,54 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container {
+  width: 100vw
+}
+
+.one-team {
+  width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center
+}
+
+.table {
+  margin: 0 auto;
+}
+
+.real-score {
+  display: none;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.see-results {
+  color: rgb(51, 51, 228);
+  font-size : 10px;
+}
+
+.see-results:hover {
+  cursor: pointer;
+}
+
+td {
+  vertical-align: -webkit-baseline-middle
+}
+
+.box {
+  width: 540px;
+  margin: 0 auto;
+}
+
+.date {
+  margin-bottom: 30px;
+}
